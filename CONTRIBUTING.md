@@ -75,7 +75,7 @@ out and say so in the README's table of what is deliberately not caught.
 ## Getting set up
 
 ```sh
-git clone https://github.com/moneycaringcoder/herdr-redact
+git clone https://github.com/mcc0x/herdr-redact
 cd herdr-redact
 cargo build --release
 herdr plugin link .          # note: `link` does NOT run the build step

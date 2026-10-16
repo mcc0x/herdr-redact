@@ -26,5 +26,5 @@ subscription, so the upstream-blocked conclusion is unchanged and
 `min_herdr_version` stays at 0.8.0. The captures and why each attempted
 workaround either breaks one of the two rules or claims more than it can prove
 are recorded in [the protocol notes](herdr-protocol.md) and
-[issue #15](https://github.com/moneycaringcoder/herdr-redact/issues/15).
+[issue #15](https://github.com/mcc0x/herdr-redact/issues/15).
 
