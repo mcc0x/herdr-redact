@@ -4,7 +4,7 @@
 # stream, or paste them. Nothing is ever written back to a pane, and no secret is
 # ever written anywhere.
 #
-# Install:   herdr plugin install moneycaringcoder/herdr-redact
+# Install:   herdr plugin install mcc0x/herdr-redact
 # Local dev: herdr plugin link /path/to/herdr-redact   (does NOT run [[build]])
 # Remove:    herdr plugin unlink moneycaringcoder.redact
 # Logs:      herdr plugin log list --plugin moneycaringcoder.redact

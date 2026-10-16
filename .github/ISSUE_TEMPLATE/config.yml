@@ -1,12 +1,12 @@
 blank_issues_enabled: true
 contact_links:
   - name: Question or general discussion
-    url: https://github.com/moneycaringcoder/herdr-redact/issues
+    url: https://github.com/mcc0x/herdr-redact/issues
     about: >
       Questions are welcome as issues — there is no separate forum, and asking
       one is not an imposition.
   - name: Security issue, or a leak you found
-    url: https://github.com/moneycaringcoder/herdr-redact/security/advisories/new
+    url: https://github.com/mcc0x/herdr-redact/security/advisories/new
     about: >
       Report privately rather than in a public issue, and do not paste the
       secret.

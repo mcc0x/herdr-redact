@@ -7,7 +7,7 @@
 **Warns you when an agent pane has printed a credential — before you screenshot it, stream it, or
 paste it into a chat window.**
 
-[![CI](https://github.com/moneycaringcoder/herdr-redact/actions/workflows/ci.yml/badge.svg)](https://github.com/moneycaringcoder/herdr-redact/actions/workflows/ci.yml)
+[![CI](https://github.com/mcc0x/herdr-redact/actions/workflows/ci.yml/badge.svg)](https://github.com/mcc0x/herdr-redact/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![herdr](https://img.shields.io/badge/herdr-%E2%89%A5%200.8.0-8b949e.svg)](https://herdr.dev)
 [![no network](https://img.shields.io/badge/network%20calls-none-2da44e.svg)](#what-this-does-not-do)
@@ -203,7 +203,7 @@ them**.
 ## Install
 
 ```sh
-herdr plugin install moneycaringcoder/herdr-redact
+herdr plugin install mcc0x/herdr-redact
 ```
 
 Installing runs the plugin's build step for you, so you end up with a compiled `target/release/redact`
@@ -214,7 +214,7 @@ Building the plugin requires Rust 1.88 or newer.
 To develop against a local checkout instead:
 
 ```sh
-git clone https://github.com/moneycaringcoder/herdr-redact
+git clone https://github.com/mcc0x/herdr-redact
 cd herdr-redact
 cargo build --release          # required: `link` does NOT run the build step
 herdr plugin link .
